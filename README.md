@@ -14,3 +14,8 @@ Code Mine Favourite Picks
 - http://blueprintjs.com/ - UI Framework 
 ### Misc
 - https://github.com/Olical/EventEmitter - Event based JavaScript for the browser
+
+## CSS
+
+- http://tobiasahlin.com/spinkit/ - Great loading indicators
+- https://erikflowers.github.io/weather-icons/ - Weather icons
