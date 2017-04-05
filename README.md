@@ -11,6 +11,6 @@ Code Mine Favourite Picks
 
 ### React
 - http://searchkit.co - UI components for Elasticsearch. The easiest way to build a great search experience with Elasticsearch.
-
+- http://blueprintjs.com/ - UI Framework 
 ### Misc
 - https://github.com/Olical/EventEmitter - Event based JavaScript for the browser
