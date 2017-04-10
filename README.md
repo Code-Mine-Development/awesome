@@ -17,10 +17,13 @@ Code Mine Favourite Picks
 
 ## CSS
 
+## Inspirations and examples
+- http://mediatemple.net/blog/tips/interesting-takes-log-sign-forms/ - Great, animated and interactive login forms
+
 ## UI kits
-- https://getuikit.com/
-- https://picturepan2.github.io/spectre/
-- http://bulma.io
+- https://getuikit.com/ - Nice and clean UI framework
+- https://picturepan2.github.io/spectre/ - Minimalistic, css only UI kit
+- http://bulma.io - Css only UI kit
 
 ### Elements
 
